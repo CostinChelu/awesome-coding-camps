@@ -2,6 +2,8 @@
 
 > A curated list of awesome Coding Bootcamps and websites to help you boost your career in Programming
 
+> Added a new example paragraph
+
 
 ## Contents
 
